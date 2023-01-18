@@ -1,4 +1,4 @@
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=aliakseis&show_icons=true)
+![GitHub Stats Card](https://github-readme-stats-sigma-five.vercel.app/api?username=aliakseis&show_icons=true)
 
 [The Crypt.](TheCrypt/README.md)
 
