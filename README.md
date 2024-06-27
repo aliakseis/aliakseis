@@ -1,5 +1,7 @@
 ![GitHub Stats Card](https://github-readme-stats-sigma-five.vercel.app/api?username=aliakseis&show_icons=true)
 
+[![Star History Chart](https://api.star-history.com/svg?repos=aliakseis/LIII,aliakseis/FFmpegPlayer&type=Date)](https://star-history.com/#aliakseis/LIII&aliakseis/FFmpegPlayer&Date)
+
 [The Crypt.](TheCrypt/README.md)
 
 <!--
